@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.example.contentobserverexample.CustomTextView
+        android:id="@+id/gantitxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <com.example.contentobserverexample.JalankanSet
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    
+</LinearLayout>
+<!-- From: file:/D:/4.%20New%20Projects/import/app/src/main/res/layout/activity_main.xml -->
